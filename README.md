@@ -1,3 +1,7 @@
+
+
+![Frame 10](https://github.com/user-attachments/assets/48482271-8d21-4363-943c-d2bdb6080629)
+
 🚀 InGen-AI
 InGen AI is a mobile app for AI-powered image editing, built with React Native.
 
